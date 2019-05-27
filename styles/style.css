@@ -1,0 +1,22 @@
+#photo {
+    border-radius: 150px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#linha {
+    width: 100%;
+    border-bottom: 1em;
+}
+
+abbr {
+    style: none;
+}
+
+.fab {
+    font-size: 150%;
+    margin-left: 3%;
+    filter:"gray";
+}
